@@ -1,2 +1,2 @@
 # hello-world
-My vary first piece of code on GitHub.
+My very first piece of code on GitHub.
